@@ -1,2 +1,2 @@
 # Certifications
-The Resources of my learnings related to Certifications are organised here
+The Resources related to my Certifications are organised here
