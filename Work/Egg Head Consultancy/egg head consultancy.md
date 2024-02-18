@@ -21,7 +21,9 @@ Balancing this part-time role alongside my academic pursuits has been a rewardin
 
 Embarking on this transition, I'm eager to leverage my newfound insights and skills in the dynamic realm of data science and business analytics. I'm excited about the possibilities that lie ahead and look forward to contributing meaningfully to this evolving field.
 
-Here's to new beginnings, continuous learning, and embracing the opportunities that come our way! 🌟 #DataScience #BusinessAnalytics #CareerTransition
+Here's to new beginnings, continuous learning, and embracing the opportunities that come our way! 🌟 #DataScience #BusinessAnalytics #CareerTransition, I am attaching below my experience certificate.
+
+[Certificate]()
 
 
 
