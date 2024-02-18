@@ -1,5 +1,25 @@
-As a part of this role i travelled to some branches directly and took control of it and audited every stocks, assets, and cash like cash receivables, payables, total cash, O/S, C/S , other assets, etc and created a report for submitting to the higher authority. This job made to explore me about the jobs related to analyst by communiacating with team members of different locations. This job inspired me to shift my present career related to data science and business analytics as most of the part in this job is related to analysing and veryfying the assets and cash.
+I've had the privilege of serving as an Audit Associate, delving into the intricate world of stocks, assets, and cash audits across diverse client portfolios, including reputable names like Apollo Diagnostics and Honda Pvt. Ltd. Partnering with RD Associates CA Firm, contracted with Egg Head Consultancy Global LLP, has been an enriching experience that has profoundly shaped my career aspirations.
 
-During this work, i worked for RD Associates CA firm which worked for Egg Head Consultancy Global LLP as contract basis. At the period of the work the clients of Egghead Global Consulting firm are Apollo Diagnostics, Honda Pvt. Ltd and some more. I travelled to these client company branches and made the external audit for the Companies. I have listed some of my work in my github account.
+In this role, I embraced the challenge of meticulously auditing stocks, assets, and cash, ensuring precision and compliance with industry standards. Every audit report crafted was a testament to our commitment to financial transparency and integrity. The collaborative spirit among cross-functional teams and the opportunity to interact with team members across various locations broadened my perspective on effective communication and teamwork dynamics.
 
-As this is a part time job, i managed to prepare for exams in free time. I have learned some valuable lessons like how to communicate properly with others, how to audit stocks, cash and other assets, how to manage work - study - life balance during this job.
+Beyond the numbers, this journey has ignited a passion for analytics within me. The intricate process of scrutinizing financial data and identifying trends has inspired me to explore the realms of data science and business analytics further. I've linked here below some of my works for clients such as Apollo Diagostics, etc.
+
+[Apollo Diagnostics, Kuppam]()
+[Apollo Diagnostics, Chittoor]()
+[Apollo Diagnostics, Madanapalli]()
+
+Balancing this part-time role alongside my academic pursuits has been a rewarding challenge, teaching me invaluable lessons in time management, effective communication, and the art of maintaining a healthy work-study-life equilibrium.
+
+🔍 Key Takeaways:
+✨ Strengthened my expertise in Management and Accounting principles.
+✨ Cultivated effective communication skills through diverse team interactions.
+✨ Developed proficiency in data analytics and honed analytical skills through meticulous examination of financial records.
+
+Embarking on this transition, I'm eager to leverage my newfound insights and skills in the dynamic realm of data science and business analytics. I'm excited about the possibilities that lie ahead and look forward to contributing meaningfully to this evolving field.
+
+Here's to new beginnings, continuous learning, and embracing the opportunities that come our way! 🌟 #DataScience #BusinessAnalytics #CareerTransition
+
+
+
+
+
