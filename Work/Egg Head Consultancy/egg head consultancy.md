@@ -7,7 +7,9 @@ In this role, I embraced the challenge of meticulously auditing stocks, assets, 
 Beyond the numbers, this journey has ignited a passion for analytics within me. The intricate process of scrutinizing financial data and identifying trends has inspired me to explore the realms of data science and business analytics further. I've linked here below some of my works for clients such as Apollo Diagostics, etc which i consider as one of my notable achievable projects i am previously worked.
 
 [Apollo Diagnostics, Kuppam]()
+
 [Apollo Diagnostics, Chittoor]()
+
 [Apollo Diagnostics, Madanapalli]()
 
 Balancing this part-time role alongside my academic pursuits has been a rewarding challenge, teaching me invaluable lessons in time management, effective communication, and the art of maintaining a healthy work-study-life equilibrium.
