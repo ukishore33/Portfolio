@@ -1,4 +1,4 @@
-# RD & Associates - Egg Head Global Consultancy LLP - Stock Auditor - Apollo Diagnostics, Honda motors
+# RD & Associates - Egg Head Global Consultancy LLP - Stock Auditor ( Sr Audit Analyst )- Apollo Diagnostics, Honda motors
 
 I've had the privilege of serving as an Stock Auditor ( Sr Audit Anlyst ), delving into the intricate world of stocks, assets, and cash audits across diverse client portfolios, including reputable names like Apollo Diagnostics and Honda Pvt. Ltd. Partnering with RD & Associates CA Firm, contracted with Egg Head Consultancy Global LLP, has been an enriching experience that has profoundly shaped my career aspirations.
 
