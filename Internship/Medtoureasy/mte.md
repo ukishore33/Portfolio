@@ -1,5 +1,3 @@
-# Internship Journey Documentation
-
 ## Data Analyst Internship at MedTourEasy
 
 ### Project: Analyze Death Age Difference of Right Handers with Left Handers
