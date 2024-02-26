@@ -27,5 +27,8 @@ This project was undertaken as part of my internship at MedTourEasy. As a Data A
 
 This project provided valuable insights into the death age difference between right-handers and left-handers, showcasing the practical application of statistical analysis in real-world scenarios. It also enhanced my skills in data analysis and visualization, contributing to my growth as a data analyst.
 
+### Completion Certificates
+
+- [MedTourEasy Internship Certificate](https://github.com/ukishore33/Certifications/blob/main/Internship/Medtoureasy/certificates/Medtour%20Easy%20Internship%20Certificate.pdf)
 
 
