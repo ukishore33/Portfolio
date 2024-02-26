@@ -24,4 +24,11 @@ This project involved collaborative efforts from team members and spanned three 
 
 These projects provided invaluable hands-on experience in machine learning techniques, data analysis, and project management, contributing significantly to my growth as a machine learning practitioner.
 
+### Completion Certificates
+
+- Technocolabs Internship Certificates:
+  - [Machine Learning Engineer Internship Completion Certificate](https://github.com/ukishore33/Certifications/blob/main/Internship/Technocolabs/Certiicates/U%20Kishore%20Machine%20Learning%20Engineer%20Internship%20Completion%20Certificate.pdf)
+  - [Project Completion Letter](https://github.com/ukishore33/Certifications/blob/main/Internship/Technocolabs/Certiicates/U%20Kishore%20Project%20Completion%20letter.pdf)
+  - [Recommendation Letter](https://github.com/ukishore33/Certifications/blob/main/Internship/Technocolabs/Certiicates/U%20Kishore%20Recommendation%20Letter.pdf)
+
 
