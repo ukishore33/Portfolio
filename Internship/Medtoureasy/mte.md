@@ -30,5 +30,4 @@ This project provided valuable insights into the death age difference between ri
 ### Completion Certificates
 
 - [MedTourEasy Internship Certificate](https://github.com/ukishore33/Certifications/blob/main/Internship/Medtoureasy/certificates/Medtour%20Easy%20Internship%20Certificate.pdf)
-
-
+- [Google Data Analytics Certificate](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/GoogleDataAnalyticsCertificate_Badge20230704-28-bgd7qr.pdf)
