@@ -1,6 +1,6 @@
 # Odin School Data Science Bootcamp
 
-I enrolled in the Odin School Data Science Bootcamp on October 21, which provides lifetime access to its portal. Throughout the bootcamp, I completed various modules and projects:
+I enrolled in the Odin School Data Science Bootcamp on 21 October 2022, which provides lifetime access to its portal. Throughout the bootcamp, I completed various modules and projects:
 
 ## Modules Completed:
 
