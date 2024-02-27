@@ -16,7 +16,7 @@ Additionally, I enrolled in the DS Comprehensive and Placement Readiness Portal,
 
 ### Machine Learning Projects:
 1. [Credit Card Approval](https://github.com/ukishore33/Capstone-Project-on-Credit-Card-Dataset)
-2. [Coronal Prediction Dataset](https://github.com/ukishore33/Capstone-project-on-Corona_dataset)
+2. [Corona Prediction Dataset](https://github.com/ukishore33/Capstone-project-on-Corona_dataset)
 3. [Health Insurance Cost](https://github.com/ukishore33/Minicapstone-on-Health-Insurance-dataset)
 4. [House Price Prediction](https://github.com/ukishore33/Minicapstone-Project-on-California-Housing-Prices-Dataset)
 
