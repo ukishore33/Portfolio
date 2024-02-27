@@ -1,5 +1,3 @@
-# B.Com Course and Key Learnings
-
 ## Bachelor of Commerce (B.Com)
 
 - **Institution**: Pragathi Group of Institutions, Bangalore University
