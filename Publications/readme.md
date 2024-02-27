@@ -1,6 +1,4 @@
-# Publications
-
-## Data Science Publications as part of Violavizn technologies
+## Data Science Publications associated with Violavizn technologies
 
 ### 1. Comparison of Different Automated Libraries with D-Tale Libraries
 
