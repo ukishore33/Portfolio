@@ -32,7 +32,7 @@ Additionally, I enrolled in the DS Comprehensive and Placement Readiness Portal,
 
 ## Certification and Ongoing Activities:
 
-- I received the [Certificate of Completion](https://github.com/ukishore33/Certifications/blob/main/Academic/Odin%20Schools/2377409-ukishore33%40gmail.pdf) in July 2023.
+- I received the [Certificate of Completion](https://github.com/ukishore33/Certifications/blob/main/Academic/Odin%20Schools/2377409-ukishore33%40gmail.pdf) in 13 June 2023.
 - I am actively participating in mock interviews and hackathons organized by the institute.
 - The LMS portal of the institute remains active, allowing me to continue accessing resources and participating in learning activities.
 
