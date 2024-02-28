@@ -30,6 +30,32 @@ I embarked on my MBA degree journey in online mode in September 2022, pursuing a
 - Writing articles as part of subject revision.
 - Planning to link the articles here in the future.
 
+## Parallel Engagements:
+
+### Bootcamps, Courses, and Internships:
+
+- Completed the Odin School Bootcamp from October 2022 to present. [Odin School](https://github.com/ukishore33/Certifications/blob/main/Academic/Odin%20Schools/os.md)
+- Undertook courses in IBM and Google on Coursera platform.
+- Engaged in internships at MedTour Easy, Technocolabs, Spark Foundation, and Bharath Intern.
+- **Internship Certifications**:
+  - [Bharath Intern](https://github.com/ukishore33/Certifications/blob/main/Internship/Bharath%20intern/bi.md)
+  - [MedTour Easy](https://github.com/ukishore33/Certifications/blob/main/Internship/Medtoureasy/mte.md)
+  - [Spark Foundation](https://github.com/ukishore33/Certifications/blob/main/Internship/Spark%20Foundation/sf.md)
+  - [Technocolabs](https://github.com/ukishore33/Certifications/blob/main/Internship/Technocolabs/tech.md)
+  - [Forage Virtual Internships](https://github.com/ukishore33/Certifications/tree/main/Internship/forage)
+
+### Publications and Freelancing:
+
+- Authored publications on topics such as D-Tale library comparison and the concept of research in data science.
+- Engaged in freelancing work at ViolaVizn Technologies.
+- **Publications**: [Readme](https://github.com/ukishore33/Certifications/blob/main/Publications/readme.md)
+- **Freelancing Work**: [ViolaVizn Technologies](https://github.com/ukishore33/Certifications/blob/main/Work/Violavizn/violavizn.md)
+
+### Additional Learning:
+
+- Pursued non-academic courses in Data Science from MSc Data Science program and IBM and Google certifications.
+- **Non-Academic Certifications**: [MSc Data Science](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/MSc%20Data%20Science/msc%20ds.md), [IBM](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md), [Google](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md), [Coursera](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Coursera/coursera.md)
+
 ## Future Plans:
 
 - Anticipating completion of the MBA program by October 2024.
@@ -37,3 +63,4 @@ I embarked on my MBA degree journey in online mode in September 2022, pursuing a
 
 The MBA program has equipped me with valuable skills and knowledge in business analytics, preparing me for challenges and opportunities in the dynamic world of business and analytics.
 
+I am committed to furthering my learning journey, leveraging my MBA degree, and continuing to explore opportunities in data science, analytics, and business domains.
