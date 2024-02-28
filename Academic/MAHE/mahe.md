@@ -55,10 +55,10 @@ I embarked on my MBA degree journey in online mode in September 2022, pursuing a
 
 - Pursued non-academic courses in Data Science from MSc Data Science program ( Non - Certificated ) and IBM and Google certifications.
 - **Non-Academic Certifications**:
- - [MSc Data Science ( Non - Certificated )](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/MSc%20Data%20Science/msc%20ds.md)
- - [IBM - Data Science Professional Certificate](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
- - [Google Data Analytics Professional Certificate](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md)
- - [Coursera Platform](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Coursera/coursera.md)
+  - [MSc Data Science ( Non - Certificated )](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/MSc%20Data%20Science/msc%20ds.md)
+  - [IBM - Data Science Professional Certificate](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
+  - [Google Data Analytics Professional Certificate](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md)
+  - [Coursera Platform](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Coursera/coursera.md)
 
 ## Future Plans:
 
