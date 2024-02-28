@@ -49,7 +49,7 @@ I embarked on my MBA degree journey in online mode in September 2022, pursuing a
 - Authored publications on topics such as D-Tale library comparison and the concept of research in data science.
 - Engaged in freelancing work at ViolaVizn Technologies.
 - **Publications**: [Readme](https://github.com/ukishore33/Certifications/blob/main/Publications/readme.md)
-- **Freelancing Work**: [ViolaVizn Technologies](https://github.com/ukishore33/Certifications/blob/main/Work/Violavizn/violavizn.md)
+- **Freelancing Work**: [Violavizn Technologies](https://github.com/ukishore33/Certifications/blob/main/Work/Violavizn/violavizn.md)
 
 ### Additional Learning:
 
