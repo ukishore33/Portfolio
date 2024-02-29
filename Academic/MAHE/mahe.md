@@ -28,7 +28,8 @@ I embarked on my MBA degree journey in online mode in September 2022, pursuing a
 ## Articles and Projects:
 
 - Writing articles as part of subject revision.
-- Planning to link the articles here in the future.
+- Planning to link the articles here in a new repository in the future.
+  [Repository Link](https://github.com/ukishore33/Revision-Articles-MAHE-MBA-Business-Analytics)
 
 ## Parallel Engagements:
 
