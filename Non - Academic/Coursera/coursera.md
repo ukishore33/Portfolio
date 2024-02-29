@@ -4,11 +4,11 @@ I embarked on a journey of continuous learning through Coursera, leveraging the 
 
 ## Professional Certificates:
 
-1. **Google Data Analytics Professional Certificate** (July 2023)
+1. **Google - Data Analytics Professional Certificate** (July 2023)
    - [Documentation Link:](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md)
    
 
-2. **IBM Data Science Professional Certification** (April 2023) &
+2. **IBM - Data Science Professional Certification** (April 2023) &
    **Data Science Fundamentals with Python and SQL** (December 2023)
    - [Documentation Link:](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
 
