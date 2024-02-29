@@ -12,7 +12,7 @@ I embarked on a journey of continuous learning through Coursera, leveraging the 
    **Data Science Fundamentals with Python and SQL** (December 2023)
    - [Documentation Link:](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
 
-3. **Tools for Exploratory Data Analysis in Business** (December 2023) &
+3. **Illinios - Tools for Exploratory Data Analysis in Business** (December 2023) &
    **Introduction to Business Analytics with R** (December 2023)
    - [Documentation Link:](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/illinios/illinios.md)
 
