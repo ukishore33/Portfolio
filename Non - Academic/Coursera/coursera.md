@@ -5,22 +5,17 @@ I embarked on a journey of continuous learning through Coursera, leveraging the 
 ## Professional Certificates:
 
 1. **Google Data Analytics Professional Certificate** (July 2023)
-   - Certification Link: [Certificate Link](Placeholder)
-   - Project Repository: [Project Repository Link](Placeholder)
+   - Documentation Link: [Certificate Link](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md)
+   
 
 2. **IBM Data Science Professional Certification** (April 2023)
-   - Certification Link: [Certificate Link](Placeholder)
-   - Project Repository: [Project Repository Link](Placeholder)
+   - Documentation Link: [Certificate Link](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
 
 ## Certificates:
 
-1. **Tools for Exploratory Data Analysis in Business** (December 2023)
-   - Certification Link: [Certificate Link](Placeholder)
-   - Project Repository: [Project Repository Link](Placeholder)
-
+1. **Tools for Exploratory Data Analysis in Business** (December 2023) &
 2. **Introduction to Business Analytics with R** (December 2023)
-   - Certification Link: [Certificate Link](Placeholder)
-   - Project Repository: [Project Repository Link](Placeholder)
+   - Documentation Link: [Certificate Link](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/illinios/illinios.md)
 
 3. **Structured Query Language** (December 2022)
    - Certification Link: [Certificate Link](Placeholder)
@@ -33,11 +28,11 @@ I embarked on a journey of continuous learning through Coursera, leveraging the 
 5. **Python with Power BI: Analyzing Financial Data** (December 2023)
    - Certification Link: [Certificate Link](Placeholder)
    - Project Repository: [Project Repository Link](Placeholder)
-
+   
 6. **Create Charts and Dashboard using Google Sheets** (December 2023)
    - Certification Link: [Certificate Link](Placeholder)
    - Project Repository: [Project Repository Link](Placeholder)
-
+   
 7. **Create a Story in Tableau Public** (December 2023)
    - Certification Link: [Certificate Link](Placeholder)
    - Project Repository: [Project Repository Link](Placeholder)
@@ -56,7 +51,7 @@ I embarked on a journey of continuous learning through Coursera, leveraging the 
 
 ## Coursera Subscription:
 
-I have a free subscription to Coursera as part of my MBA Business Analytics course from Manipal. You can find the repository link for Coursera subscriptions here: [Coursera Subscription Repository Link](Placeholder)
+I have a free subscription to Coursera as part of my [MBA Business Analytics course](https://github.com/ukishore33/Certifications/blob/main/Academic/MAHE/mahe.md) from Manipal.
 
 I will update the certification and project repository links as they become available.
 
