@@ -12,13 +12,17 @@ I embarked on a journey of continuous learning through Coursera, leveraging the 
    **Data Science Fundamentals with Python and SQL** (December 2023)
    - [Documentation Link:](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
 
-## Certificates:
-
-1. **Tools for Exploratory Data Analysis in Business** (December 2023) &
+3. **Tools for Exploratory Data Analysis in Business** (December 2023) &
    **Introduction to Business Analytics with R** (December 2023)
    - [Documentation Link:](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/illinios/illinios.md)
 
-2. **Structured Query Language** (December 2022)
+## Certificates:
+
+1. **Structured Query Language** (December 2022)
+   - Certification Link: [Certificate Link](Placeholder)
+   - Project Repository: [Project Repository Link](Placeholder)
+     
+2. **Google Sheets - Advanced Topics** (December 2023)
    - Certification Link: [Certificate Link](Placeholder)
    - Project Repository: [Project Repository Link](Placeholder)
 
@@ -39,10 +43,6 @@ I embarked on a journey of continuous learning through Coursera, leveraging the 
    - Project Repository: [Project Repository Link](Placeholder)
 
 7. **Data Analysis Using PySpark** (December 2023)
-   - Certification Link: [Certificate Link](Placeholder)
-   - Project Repository: [Project Repository Link](Placeholder)
-
-8. **Google Sheets - Advanced Topics** (December 2023)
    - Certification Link: [Certificate Link](Placeholder)
    - Project Repository: [Project Repository Link](Placeholder)
 
