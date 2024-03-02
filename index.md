@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+💫 About Me:
+🔭 i'm currently working on violavizn technologies.
+👯 i'm looking to collaborate on projects related to combination of Finance, Management, Data Science and Generative AI related topics.
+🌱 I'm currently learning Stock market Analysis and Generative AI.
+💬 Ask me about Finance, Management, Data Science and Generative AI related topics.
+⚡ Fun Fact : Everything I learnt in past Repeatedly Arrives as Dejavu for me. I can see this quote more often in my Life - ' History Repeats again always '
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
