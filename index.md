@@ -24,6 +24,7 @@ Violavizn Technologies( Data Analyst ) [![YouTube](https://img.shields.io/badge/
 Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
 
 # 🌱 Internships:
+
 Forage Internships ( Data Scientist Virtual Internships ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/forage/forage.md)
  
 Bharath Intern ( Data Scientist Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Bharath%20intern/bi.md)
@@ -35,6 +36,7 @@ Technocolabs Software ( Machine Learning Intern ) [![YouTube](https://img.shield
 Med Tour Easy ( Data Analyst Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Medtoureasy/mte.md)
 
 # 🌱 Study( Academic ):
+
 Manipal Academy of Higher Education ( MBA - Business Analytics ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/MAHE/mahe.md)
  
 Odin School ( Data Science BootCamp ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/Odin%20Schools/os.md)
@@ -42,6 +44,7 @@ Odin School ( Data Science BootCamp ) [![YouTube](https://img.shields.io/badge/d
 Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/B.Com/b.com.md)
 
 # 💬 Courses( Non - Academic ):
+
  MSc Data Science ( Non Certificated Programme ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/MSc%20Data%20Science/msc%20ds.md)
  
  IBM Data Science Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
@@ -157,11 +160,11 @@ Research in Data Science [![YouTube](https://img.shields.io/badge/documentation-
 Comparison of D - Tale Library with other Automated Libraries [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://aitechspaces.com/python/data-frame-eda-packages-comparison-dtale/)
 
 # 💫 Letter of Recommendation:
-Technocolabs Softwares ( ML Engineer Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/README.txt)
+Technocolabs Softwares ( ML Engineer Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/ReadMe.md)
  
-MedTourEasy ( Data Analyst intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/README.txt)
+MedTourEasy ( Data Analyst intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/ReadMe.md)
 
-Egg Head Global Consultancy LLP ( Audit Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/README.txt)
+Egg Head Global Consultancy LLP ( Audit Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/ReadMe.md)
 
 
 # 📊 GitHub Stats:
