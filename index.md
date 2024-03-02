@@ -160,11 +160,11 @@ Research in Data Science [![YouTube](https://img.shields.io/badge/documentation-
 Comparison of D - Tale Library with other Automated Libraries [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://aitechspaces.com/python/data-frame-eda-packages-comparison-dtale/)
 
 # 💫 Letter of Recommendation:
-Technocolabs Softwares ( ML Engineer Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/ReadMe.md)
+Technocolabs Softwares ( ML Engineer Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/Readme.md)
  
-MedTourEasy ( Data Analyst intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/ReadMe.md)
+MedTourEasy ( Data Analyst intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/Readme.md)
 
-Egg Head Global Consultancy LLP ( Audit Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/ReadMe.md)
+Egg Head Global Consultancy LLP ( Audit Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/Readme.md)
 
 
 # 📊 GitHub Stats:
