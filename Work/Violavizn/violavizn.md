@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Experience at Violavizn Technologies
 
 ## Overview
