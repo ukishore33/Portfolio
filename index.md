@@ -1,202 +1,89 @@
 ---
 layout: default
 ---
-# 💫 About Me:
-🔭 i'm currently working on violavizn technologies. <br>👯 i'm looking to collaborate on projects related to combination of Finance, Management, Data Science and  Generative AI related topics. <br>🌱 I'm currently learning Stock market Analysis and Generative AI. <br>💬 Ask me about Finance, Management, Data Science and  Generative AI related topics. <br>⚡ Fun Fact : Everything I learnt in past Repeatedly Arrives as Dejavu for me. I can see this quote more often in my Life - ' History Repeats again always '
+# Data Science Portfolio
+---
+## Machine learning
 
+### Fraud Detection
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kishore330033/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ukishore33/) [![LinkTree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ukishore8133) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/kishore_pillai_)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kishore_pillai_)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ukishore33) [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ukishore33?hr_r=1)  [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ukishore33/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/U-Kishore-4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ukishore33) 
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
-# 💻 Tech Stack:
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
 
-<!--## Projects working on ( Presently ):
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)-->
-
-# 🔭 Experience:
-
-Violavizn Technologies( Data Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Violavizn/violavizn.md)
- 
-Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Work/Egg%20Head%20Consultancy/egg%20head%20consultancy.md)
-
-# 🌱 Internships:
-
-Forage Internships ( Data Scientist Virtual Internships ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/forage/forage.md)
- 
-Bharath Intern ( Data Scientist Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Bharath%20intern/bi.md)
- 
-Sparks Foundation ( Data Scientist Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Spark%20Foundation/sf.md)
- 
-Technocolabs Software ( Machine Learning Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Technocolabs/tech.md)
-
-Med Tour Easy ( Data Analyst Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Internship/Medtoureasy/mte.md)
-
-# 🌱 Study( Academic ):
-
-Manipal Academy of Higher Education ( MBA - Business Analytics ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/MAHE/mahe.md)
- 
-Odin School ( Data Science BootCamp ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/Odin%20Schools/os.md)
- 
-Pragathi Group of Institutions ( B.com ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Academic/B.Com/b.com.md)
-
-# 💬 Courses( Non - Academic ):
-
- MSc Data Science ( Non Certificated Programme ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/MSc%20Data%20Science/msc%20ds.md)
- 
- IBM Data Science Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/IBM/ibm.md)
- 
- Google Data Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Google/google.md)
-
- Illinios Business Analytics Certification [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/illinios/illinios.md)
- 
- Coursera Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Coursera/coursera.md)
-
- Udemy Certifications [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Non%20-%20Academic/Microsoft/microsoft.md)
-
-# 💫 Projects:
-
-## Highlights:
-NASA Dataset - Advanced Capstone Project --> EDA ( Tableau ) + ML ( Classisfication Model )  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
-
-## Statistical Projects:
-Analyse Death Age Difference of Left Handlers vs Right Handlers --> Python [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers/blob/main/README.md)
- 
-Descriptve Statistics --> Python [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Performing-Descriptive-Statistics/blob/main/README.md)
-
-## Python Projects:
-Python related Advanced Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Python-Related-Projects/blob/main/README.md)
- 
-Performing Basic Calculations --> Python  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Performing-Descriptive-Statistics/blob/main/README.md)
-
-<!--## R Projects:
-!--  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
- Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)--
-
-## PySpark Projects:
-<!--  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
- Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)-->
-
-## Database Related Projects:
-Model Car Database --> MySQL  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analyze-Data-in-a-Model-Car-Database-with-MySQL-Workbench)
- 
-Analysing Maven Movies Database --> MySql [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analysing-of-Maven-Movies-Database)
- 
-Analysing IG Clone Database --> MySQL [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analysing-IG-Clone-Database-using-MySQL)
-
-## EDA Projects:
-All State, a personal insurance company Dataset Analysis --> Seaborn, Matplotlib  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analysing-cost-of-insurance-claims-post-an-unforeseen-event)
- 
-CodeX Food Company : Building Dashboard Challenge --> PowerBI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Making-a-Dashboard-on-Food-and-Beverage-Industry)
- 
-Wall Mart Data Analysis --> Seaborn, Matplotlib [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Mini-Project-BigMart-Outlet-Sales-Analysis-and-Prediction)
-
-Housing Sales Dataset Analysis --> Seaborn, Matplotlib [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analysing-House-Sales-Data-in-King-Count-USA)
-
-Boston Housing Data Analysis --> Seaborn, Matplotlib [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Boston-Housing-Data-Analysis)
-
-Mini - Capstone on Health Insurance dataset --> Seaborn, Matplotlib [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Minicapstone-on-Health-Insurance-dataset)
-
-Super Market Dataset Analysis --> PowerBI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analysing-of-Super-Market-data-using-Power-BI)
-
-Analysing California Housing Prices Dataset by Python --> Seaborn, Matplotlib [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analysing-of-California-Housing-Prices-Dataset-by-Python)
-
-Coupons, Discounts on Brands Data --> PowerBI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Coupon-Discounts-Data-on-Brands)
-
-## ML Projects:
-NASA Dataset - Advanced Capstone Project --> EDA ( Tableau ) + Machine Learning Project ( Classification Model ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Ibm-capstone)
- 
-Startup acquisition dataset --> Classification Model  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Building-Machine-learning-pipeline-start-up-acquisition-dataset)
- 
-Health Insurance Dataset --> Python, Classification Model [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analysing-IG-Clone-Database-using-MySQL)
-
-Does the patients have corona or not! --> Classification Model [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Capstone-project-on-Corona_dataset)
-
-Whether the credit card is issued to a customer or not! --> Classification Model  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Capstone-Project-on-Credit-Card-Dataset)
-
-Titanic Data (Survived or Deceased ) --> Classification model  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Titanic-Dataset)
-
-Capstone on Credit Card Dataset --> Classification Model  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Analysing-Credit-Card-Dataset)
-
-Capstone on Corona Dataset --> Regression Model [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Capstone-Corona_dataset)
-
-## DL Projects:
-
-Whether the Pepper bell leaf is Diseased or Healthy? --> Classification, CNN Model [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Classifying-Images-based-on-Deep-learning-CNN-Algorithm)
-
-Traffic Sign Detection --> Classification, CNN Model [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Traffic-Sign-Classification)
-
-
-Face Mask Detection --> CNN + Pre Built Model  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Detection-of-Face-Mask)
- 
-Whether this image is Dog or Cat ? --> CNN Classification Model  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Classification-of-Images-Cat-VS-Dog)
-
-## NLP Projects:
-
-How to Extract text from PDF to Excel  using Python codes !?  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Extraction-of-text-from-pdf-to-excel)
-
-<!--  [![YouTube](https://img.shields.io/badge/documentation-link-green)]()
-
-## Generative AI Projects:
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
-  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)
- 
- Egg Head Global Consultancy LLP (Audit Analyst) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://platform.openai.com/docs/introduction)-->
-
-
-# 📫 Publications:
-Research in Data Science [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/Publications/readme.md)
- 
-Comparison of D - Tale Library with other Automated Libraries [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://aitechspaces.com/python/data-frame-eda-packages-comparison-dtale/)
-
-# 💫 Letter of Recommendation:
-Technocolabs Softwares ( ML Engineer Intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/Readme.md)
- 
-MedTourEasy ( Data Analyst intern ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/Readme.md)
-
-Egg Head Global Consultancy LLP ( Audit Analyst ) [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/ukishore33/Certifications/blob/main/LOR/Readme.md)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ukishore33&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ukishore33&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ukishore33&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Github Activiy -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ukishore33&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ukishore33&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- # Snake Animation --
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ukishore33/ukishore33/output/snake.svg" alt="Snake animation" /> -->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ukishore33&limit=5&theme=matrix&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<center><img src="assets/img/fraud_detection.jpg"/></center>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ukishore33&icon=0&color=0)](https://visitcount.itsvg.in)
+### Financial-Models-Numerical-Methods
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ukishore33) 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
+
+This is just a collection of topics and algorithms that in my opinion are interesting.
+
+It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, Lévy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
+The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
+
+<center><img src="assets/img/financial_modeling.jpg"/></center>
+
+---
+### LSTM Neural Network for Time Series Prediction
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
+
+The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
+
+<center><img src="https://camo.githubusercontent.com/a085b4fe60690252b8aa2de917c53fc3f63aec21aafea21c8f1ecb543d2c44cb/68747470733a2f2f7777772e616c74756d696e74656c6c6967656e63652e636f6d2f6173736574732f74696d652d7365726965732d70726564696374696f6e2d7573696e672d6c73746d2d646565702d6e657572616c2d6e6574776f726b732f73696e776176655f66756c6c5f7365712e706e67"/></center>
+
+---
+### Text Classification
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/cnn-text-classification-tf#readme)
+
+It is slightly simplified implementation of Kim's Convolutional Neural Networks for Sentence Classification paper in Tensorflow.
+
+<center><img src="assets/img/text_classification.png"/></center>
+
+---
+### Awesome Machine Learning
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/awesome-machine-learning)
+
+A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+
+<center><img src="assets/img/machine_learning.jpg"/></center>
+
+---
+### Gesture Recognizer
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/CNNGestureRecognizer)
+
+Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV
+
+Key Requirements: Python 3.6.1 OpenCV 3.4.1 Keras 2.0.2 Tensorflow 1.2.1 Theano 0.9.0 (obsolete and not supported any further)
+
+Suggestion: Better to download Anaconda as it will take care of most of the other packages and easier to setup a virtual workspace to work with multiple versions of key packages like python, opencv etc.
+
+<center><img src="assets/img/gesture_recognition.jpg"/></center>
+
+---
+### Human Activity Recognition
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Human-Activity-Recognition)
+
+Human Activity Recognition (HAR) using smartphones dataset and an LSTM RNN. Classifying the type of movement amongst six categories:
+
+WALKING,
+WALKING_UPSTAIRS,
+WALKING_DOWNSTAIRS,
+SITTING,
+STANDING,
+LAYING.
+Compared to a classical approach, using a Recurrent Neural Networks (RNN) with Long Short-Term Memory cells (LSTMs) require no or almost no feature engineering. Data can be fed directly into the neural network who acts like a black box, modeling the problem correctly. Other research on the activity recognition dataset can use a big amount of feature engineering, which is rather a signal processing approach combined with classical data science techniques. The approach here is rather very simple in terms of how much was the data preprocessed.
+
+Let's use Google's neat Deep Learning library, TensorFlow, demonstrating the usage of an LSTM, a type of Artificial Neural Network that can process sequential data / time series.
+
+<center><img src="assets/img/human_activity.jpg"/></center>
+
 
 
 
@@ -432,7 +319,7 @@ end
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl> -->
+</dl> 
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
