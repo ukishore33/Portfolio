@@ -2,8 +2,8 @@ title: <p align="center"> Kishore Umaprasad </p>
 logo: /assets/img/kishore.png
 description:  <p align="center">
   <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
-  <a href="https://github.com/sajankedia">GitHub</a>
+  <a href="https://www.linkedin.com/in/ukishore33/">LinkedIn</a> |
+  <a href="https://github.com/ukishore33">GitHub</a>
  
   <br>  
   I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
@@ -12,6 +12,5 @@ description:  <p align="center">
   Working in AdTech domain for 3 years.
   <br>
   </p>
-show_downloads: false
-google_analytics:
+
 theme: jekyll-theme-minimal
