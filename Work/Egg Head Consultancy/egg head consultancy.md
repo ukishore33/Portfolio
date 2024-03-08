@@ -6,11 +6,11 @@ In this role, I embraced the challenge of meticulously auditing stocks, assets, 
 
 Beyond the numbers, this journey has ignited a passion for analytics within me. The intricate process of scrutinizing financial data and identifying trends has inspired me to explore the realms of data science and business analytics further. I've linked here below some of my works for clients such as Apollo Diagostics, etc which i consider as one of my notable achievable projects i am previously worked.
 
-[Apollo Diagnostics, Kuppam]()
+[Apollo Diagnostics, Kuppam](https://github.com/ukishore33/Portfolio/blob/main/Work/Egg%20Head%20Consultancy/OTHER%20FILES/kuppam%20cash%20.pdf)
 
-[Apollo Diagnostics, Chittoor]()
+[Apollo Diagnostics, Chittoor](https://github.com/ukishore33/Portfolio/blob/main/Work/Egg%20Head%20Consultancy/OTHER%20FILES/THINGS.pdf)
 
-[Apollo Diagnostics, Madanapalli]()
+[Apollo Diagnostics, Madanapalli](https://github.com/ukishore33/Portfolio/blob/main/Work/Egg%20Head%20Consultancy/OTHER%20FILES/New%20doc%2003-Apr-2021%206.28%20PM.pdf)
 
 Balancing this part-time role alongside my academic pursuits has been a rewarding challenge, teaching me invaluable lessons in time management, effective communication, and the art of maintaining a healthy work-study-life equilibrium.
 
@@ -23,7 +23,7 @@ Embarking on this transition, I'm eager to leverage my newfound insights and ski
 
 Here's to new beginnings, continuous learning, and embracing the opportunities that come my way! 🌟 #DataScience #BusinessAnalytics #CareerTransition, I am attaching below my experience certificate.
 
-[Certificate]()
+[Certificate](https://github.com/ukishore33/Portfolio/blob/main/Work/Egg%20Head%20Consultancy/certificate.pdf)
 
 
 
